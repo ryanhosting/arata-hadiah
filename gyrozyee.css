@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fff;
+  height: 100vh;
+}
+
+.gyrozyee {
+  
+}
+
+.gyro-im-p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: ;
+}
+
+.gyro-im-p img {
+  width: 300px;
+  height: 240px;
+}
+
+.gyro-tk-st {
+  text-align: center;
+}
+
+.gyro-tk-st h1 {
+  font-size: 14px;
+  font-family: Sans-Serif;
+  font-weight: 700;
+  margin: 5px;
+}
+
+.gyro-smpl-okg-pst {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5vh;
+}
+
+.gyro-smpl-okg {
+  background-color: #fff;
+  width: 93%;
+  height: 40vh;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.gyro-tk-ngr {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.gyro-tk-ngr h2 {
+  font-size: 14px;
+  font-family: Sans-Serif;
+  font-weight: 600;
+}
